@@ -1,15 +1,51 @@
-# React + Vite
+# To-Do List
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **simple yet effective To-Do List web application** that helps users manage their daily tasks with ease. Built with a focus on clean UI and responsive design.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Add new tasks
+- Mark tasks as completed
+- Delete tasks
+- Clear all completed tasks
+- Responsive design for mobile and desktop
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# to-do-list
-# to-do-list
-# to-do-list
+REACT JS
+Tailwindcss
+
+## 🌐 Live Demo
+
+[View the To-Do List app here](https://jarvis-to-do-list.vercel.app/)
+
+## 📸 Screenshots
+
+![image](https://github.com/user-attachments/assets/51e7d540-eb1f-451f-bb5b-2ddfed109dd2)
+
+## 🔧 Installation
+
+To run this project locally:
+
+```bash
+git clone https://github.com/Ayush-Bhagwat/to-do-list.git
+cd to-do-list
+# Open index.html directly in your browser
+````
+
+
+## ✨ Contributing
+
+Contributions are welcome! Please fork the repository and open a pull request for any improvements or new features.
+
+## 📄 License
+
+[MIT](LICENSE)
+
+---
+
+### Connect with me
+
+* [LinkedIn](your-linkedin-link)
+* [GitHub](https://github.com/Ayush-Bhagwat)
+
